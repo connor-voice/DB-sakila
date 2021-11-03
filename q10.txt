@@ -1,0 +1,1 @@
+SELECT * FROM sakila.film WHERE special_features IN ('Deleted Scenes');
