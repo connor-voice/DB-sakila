@@ -1,0 +1,1 @@
+SELECT description FROM sakila.film WHERE film_id=100;
