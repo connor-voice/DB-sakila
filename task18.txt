@@ -1,0 +1,1 @@
+SELECT count(release_year) FROM sakila.film WHERE release_year=2010;
