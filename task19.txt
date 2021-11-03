@@ -1,0 +1,1 @@
+SELECT title FROM sakila.film_list WHERE category='Horror';
