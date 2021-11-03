@@ -1,0 +1,1 @@
+SELECT actor_id, film_id, COUNT(actor_id) FROM sakila.film_actor GROUP BY actor_id ORDER BY COUNT(actor_id) DESC;
