@@ -1,1 +1,1 @@
-SELECT title from sakila.film_list WHERE actors LIKE '%Fred Costner';
+SELECT name FROM sakila.staff_list WHERE ID=2;
