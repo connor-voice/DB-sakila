@@ -1,0 +1,1 @@
+SELECT COUNT(category), category FROM sakila.film_list GROUP BY category ORDER BY COUNT(category) DESC LIMIT 1;
